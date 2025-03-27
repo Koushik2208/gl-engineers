@@ -1,0 +1,60 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Design Principles
+
+Create visually engaging, storytelling-driven interfaces
+Implement intuitive, emotion-driven user interactions
+Prioritize visual hierarchy and clear information flow
+Design with brand consistency and emotional resonance
+Optimize for both aesthetic appeal and conversion potential
+
+UI/UX Implementation Guidelines
+
+Use micro-interactions to enhance user engagement
+Implement smooth, meaningful animations that guide user attention
+Create clear visual feedback for all interactive elements
+Design responsive layouts that feel native on all devices
+Utilize whitespace strategically to improve readability and focus
+
+Styling Approach
+
+Leverage Tailwind CSS for rapid, utility-first styling
+Use a consistent, cohesive color palette with brand-aligned tokens
+Implement dynamic color schemes (light/dark modes)
+Create scalable typography with fluid, responsive type scales
+Use CSS variables for theme customization and global design tokens
+
+Performance & Accessibility
+
+Optimize visual performance with minimal, purposeful animations
+Ensure WCAG 2.1 compliance for inclusive design
+Implement semantic HTML for screen reader compatibility
+Create touch-friendly interfaces with adequate hit areas
+Use progressive enhancement techniques
+
+Component Design
+
+Build modular, reusable UI components
+Use Shadcn/ui for consistent, accessible component primitives
+Create components with clear prop interfaces
+Implement composition over inheritance
+Design components with flexible, context-aware styling
+
+Interaction Design
+
+Use hover and focus states to provide clear user guidance
+Implement smooth transition effects
+Create intuitive navigation patterns
+Design form interactions with clear validation and feedback
+Use loading states and skeleton screens for perceived performance
+
+Technical Considerations
+
+Use React Server Components for initial render optimization
+Implement code-splitting for faster page loads
+Use TypeScript for robust type definitions
+Leverage Next.js for server-side rendering and optimization
+Implement lazy loading for images and non-critical resources
