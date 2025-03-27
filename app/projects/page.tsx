@@ -144,7 +144,7 @@ const Projects = () => {
             Have a Project in Mind?
           </h2>
           <p className="text-lg text-foreground/80 mb-8">
-            Let's discuss how we can help bring your vision to reality.
+            Let&apos;s discuss how we can help bring your vision to reality.
           </p>
           <button className="px-8 py-3 bg-primary text-primary-foreground rounded-lg 
                          font-semibold hover:bg-primary/90 transition-all duration-300 

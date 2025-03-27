@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 
 const Services = () => {
   const services = [
@@ -104,7 +103,7 @@ const Services = () => {
             Ready to Start Your Project?
           </h2>
           <p className="text-lg text-foreground/80 mb-8">
-            Contact us today for a free consultation and let's bring your vision to life.
+            Contact us today for a free consultation and let&apos;s bring your vision to life.
           </p>
           <button className="px-8 py-3 bg-primary text-primary-foreground rounded-lg 
                          font-semibold hover:bg-primary/90 transition-all duration-300 
